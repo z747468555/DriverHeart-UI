@@ -1,0 +1,5 @@
+{
+  "name": "DriverHeart-UI",
+  "description": "A Morandi-style health monitoring application for drivers, featuring real-time ECG/PPG visualization, health analysis, and historical trends.",
+  "requestFramePermissions": []
+}
